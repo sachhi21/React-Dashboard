@@ -1,6 +1,12 @@
 # React-Dashboard
 Flask, Mango DB, Docker
 
+#chartjs
+https://www.chartjs.org/
+
+#rechartjs
+https://recharts.org/en-US/
+
 #Data Visualization Dashboard 
 
 ![Screenshot from 2022-12-11 12-54-47](https://user-images.githubusercontent.com/99388531/209064630-9f5b5f6d-6a73-48ab-bb81-55238e906ea5.png)
